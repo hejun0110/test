@@ -2,5 +2,6 @@
 
 main()
 {
+	nihao;
 	return 0;
 }
